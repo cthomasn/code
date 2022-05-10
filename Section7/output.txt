@@ -1,0 +1,30 @@
+Enemy 1's position: (635,478)
+Enemy 2's position: (276,386)
+Enemy 3's position: (737,20)
+Enemy 4's position: (284,17)
+Enemy 5's position: (341,328)
+Enemy 6's position: (782,144)
+Enemy 7's position: (321,106)
+Enemy 8's position: (63,435)
+Enemy 9's position: (93,286)
+Enemy 10's position: (277,12)
+Enemy 11's position: (386,200)
+Enemy 12's position: (738,153)
+Enemy 13's position: (456,52)
+Enemy 14's position: (268,127)
+Enemy 15's position: (362,86)
+Enemy 16's position: (458,416)
+Enemy 17's position: (199,250)
+Enemy 18's position: (680,444)
+Enemy 19's position: (444,490)
+Enemy 20's position: (467,201)
++-----------------------------------+
+| Welcome, 11/28/21 13:33:21
++-----------------------------------+
+| 1. Generate random enemy position.
+| 2. Distance from enemy to player.
+| 3. Get angle from enemy to player.
+| 4. Exit.
++-----------------------------------+
+
+Please select your option:
