@@ -1,0 +1,16 @@
+Hello World!
+540
+Thank you, goodbye!
+
+Examples of variables.
+Type of of score's value: number
+Value of hourly_wage with one '/': 12.5
+Value of hourly_wage with two '/': 12
+Name of player1 is: Leeroy Jenkins
+
+Incrementing and Decrementing variables.
+Level: 2
+Lives: 4
+
+Conditionals: Elseif
+Menu Option: Bring 'em on!

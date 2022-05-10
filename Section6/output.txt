@@ -1,0 +1,16 @@
+Exercise 1:
+R: 91, G: 137, B: 147.
+
+Exercise 2:
+jakmar@.gmail.com is an invalid email address.
+
+Exercise 3:
+Password is valid!
+
+Exercise 4:
+
+You: 5
+
+Machine: 5
+
+You and the machine rolled the same number!
